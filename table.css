@@ -1,0 +1,19 @@
+/*
+* courtney lenoir
+* due date
+* project name and description
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+body {
+
+}
+table, td, th { border: 1px solid blue;}
+table{ border-collapse: collapse;}
+thead { background-color: cadetblue;}
+tfoot { background-color:cyan;}
